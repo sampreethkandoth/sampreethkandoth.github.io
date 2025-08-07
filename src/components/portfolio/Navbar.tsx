@@ -48,10 +48,12 @@ export const Navbar = () => {
             >
               Experience
             </button>
-            <Button variant="professional" size="sm" className="ml-4">
+            <a href="/CV.pdf" download>
+              <Button variant="professional" size="sm" className="ml-4">
               <Download className="w-4 h-4 mr-2" />
               Download CV
             </Button>
+            </a>
           </div>
 
           {/* Mobile menu button */}
