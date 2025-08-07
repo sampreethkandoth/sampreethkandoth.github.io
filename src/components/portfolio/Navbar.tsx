@@ -48,9 +48,8 @@ export const Navbar = () => {
             >
               Experience
             </button>
-            <a href="/CV.pdf" download>
-              <Button variant="professional" size="sm" className="ml-4">
-              <Download className="w-4 h-4 mr-2" />
+             <a href="/CV.pdf" download>
+            <Button variant="outline" size="lg">
               Download CV
             </Button>
             </a>
