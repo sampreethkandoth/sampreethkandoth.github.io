@@ -9,7 +9,7 @@ export const Footer = () => {
         <div className="text-center mb-16">
           <h2 className="text-4xl font-bold mb-4">Let's Build Something Amazing Together</h2>
           <p className="text-lg text-primary-foreground/80 max-w-2xl mx-auto">
-            Ready to collaborate on innovative engineering solutions? I'm always excited to discuss new opportunities and challenging projects.
+            Ready to collaborate on innovative engineering solutions? I'm always excited to discuss new opportunities and challenging projects!
           </p>
         </div>
 
